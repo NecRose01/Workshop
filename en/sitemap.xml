@@ -2,223 +2,223 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/Workshop/1.-introduction/</loc>
+    <loc>https://necrose01.github.io/Workshop/1.-introduction/</loc>
     <lastmod>2025-08-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/Workshop/vi/1.-introduction/"
+                href="https://necrose01.github.io/Workshop/vi/1.-introduction/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Workshop/1.-introduction/"
+                href="https://necrose01.github.io/Workshop/1.-introduction/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Workshop/3.-aws-comprehend/3.1-demo-aws-comprehend/</loc>
+    <loc>https://necrose01.github.io/Workshop/3.-aws-comprehend/3.1-demo-aws-comprehend/</loc>
     <lastmod>2025-08-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/Workshop/vi/3.-aws-comprehend/3.1-demo-aws-comprehend/"
+                href="https://necrose01.github.io/Workshop/vi/3.-aws-comprehend/3.1-demo-aws-comprehend/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Workshop/3.-aws-comprehend/3.1-demo-aws-comprehend/"
+                href="https://necrose01.github.io/Workshop/3.-aws-comprehend/3.1-demo-aws-comprehend/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Workshop/2.-prepare/2.1-create-s3-bucket/</loc>
+    <loc>https://necrose01.github.io/Workshop/2.-prepare/2.1-create-s3-bucket/</loc>
     <lastmod>2025-08-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/Workshop/vi/2.-prepare/2.1-create-s3-bucket/"
+                href="https://necrose01.github.io/Workshop/vi/2.-prepare/2.1-create-s3-bucket/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Workshop/2.-prepare/2.1-create-s3-bucket/"
+                href="https://necrose01.github.io/Workshop/2.-prepare/2.1-create-s3-bucket/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Workshop/</loc>
+    <loc>https://necrose01.github.io/Workshop/</loc>
     <lastmod>2025-08-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/Workshop/vi/"
+                href="https://necrose01.github.io/Workshop/vi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Workshop/"
+                href="https://necrose01.github.io/Workshop/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Workshop/4.-transformers/4.1-create-ec2/</loc>
+    <loc>https://necrose01.github.io/Workshop/4.-transformers/4.1-create-ec2/</loc>
     <lastmod>2025-08-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/Workshop/vi/4.-transformers/4.1-create-ec2/"
+                href="https://necrose01.github.io/Workshop/vi/4.-transformers/4.1-create-ec2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Workshop/4.-transformers/4.1-create-ec2/"
+                href="https://necrose01.github.io/Workshop/4.-transformers/4.1-create-ec2/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Workshop/2.-prepare/</loc>
+    <loc>https://necrose01.github.io/Workshop/2.-prepare/</loc>
     <lastmod>2025-08-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/Workshop/vi/2.-prepare/"
+                href="https://necrose01.github.io/Workshop/vi/2.-prepare/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Workshop/2.-prepare/"
+                href="https://necrose01.github.io/Workshop/2.-prepare/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Workshop/3.-aws-comprehend/3.2-create-lambda-function/</loc>
+    <loc>https://necrose01.github.io/Workshop/3.-aws-comprehend/3.2-create-lambda-function/</loc>
     <lastmod>2025-08-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/Workshop/vi/3.-aws-comprehend/3.2-create-lambda-function/"
+                href="https://necrose01.github.io/Workshop/vi/3.-aws-comprehend/3.2-create-lambda-function/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Workshop/3.-aws-comprehend/3.2-create-lambda-function/"
+                href="https://necrose01.github.io/Workshop/3.-aws-comprehend/3.2-create-lambda-function/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Workshop/2.-prepare/2.2-create-csv-file/</loc>
+    <loc>https://necrose01.github.io/Workshop/2.-prepare/2.2-create-csv-file/</loc>
     <lastmod>2025-08-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/Workshop/vi/2.-prepare/2.2-create-csv-file/"
+                href="https://necrose01.github.io/Workshop/vi/2.-prepare/2.2-create-csv-file/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Workshop/2.-prepare/2.2-create-csv-file/"
+                href="https://necrose01.github.io/Workshop/2.-prepare/2.2-create-csv-file/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Workshop/4.-transformers/4.2-setup-environment/</loc>
+    <loc>https://necrose01.github.io/Workshop/4.-transformers/4.2-setup-environment/</loc>
     <lastmod>2025-08-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/Workshop/vi/4.-transformers/4.2-setup-environment/"
+                href="https://necrose01.github.io/Workshop/vi/4.-transformers/4.2-setup-environment/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Workshop/4.-transformers/4.2-setup-environment/"
+                href="https://necrose01.github.io/Workshop/4.-transformers/4.2-setup-environment/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Workshop/4.-transformers/4.3-training-model/</loc>
+    <loc>https://necrose01.github.io/Workshop/4.-transformers/4.3-training-model/</loc>
     <lastmod>2025-08-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/Workshop/vi/4.-transformers/4.3-training-model/"
+                href="https://necrose01.github.io/Workshop/vi/4.-transformers/4.3-training-model/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Workshop/4.-transformers/4.3-training-model/"
+                href="https://necrose01.github.io/Workshop/4.-transformers/4.3-training-model/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Workshop/3.-aws-comprehend/</loc>
+    <loc>https://necrose01.github.io/Workshop/3.-aws-comprehend/</loc>
     <lastmod>2025-08-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/Workshop/vi/3.-aws-comprehend/"
+                href="https://necrose01.github.io/Workshop/vi/3.-aws-comprehend/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Workshop/3.-aws-comprehend/"
+                href="https://necrose01.github.io/Workshop/3.-aws-comprehend/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Workshop/2.-prepare/2.3-upload-csv-to-s3-bucket/</loc>
+    <loc>https://necrose01.github.io/Workshop/2.-prepare/2.3-upload-csv-to-s3-bucket/</loc>
     <lastmod>2025-08-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/Workshop/vi/2.-prepare/2.3-upload-csv-to-s3-bucket/"
+                href="https://necrose01.github.io/Workshop/vi/2.-prepare/2.3-upload-csv-to-s3-bucket/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Workshop/2.-prepare/2.3-upload-csv-to-s3-bucket/"
+                href="https://necrose01.github.io/Workshop/2.-prepare/2.3-upload-csv-to-s3-bucket/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Workshop/4.-transformers/</loc>
+    <loc>https://necrose01.github.io/Workshop/4.-transformers/</loc>
     <lastmod>2025-08-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/Workshop/vi/4.-transformers/"
+                href="https://necrose01.github.io/Workshop/vi/4.-transformers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Workshop/4.-transformers/"
+                href="https://necrose01.github.io/Workshop/4.-transformers/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Workshop/2.-prepare/2.4-set-iam-policy/</loc>
+    <loc>https://necrose01.github.io/Workshop/2.-prepare/2.4-set-iam-policy/</loc>
     <lastmod>2025-08-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/Workshop/vi/2.-prepare/2.4-set-iam-policy/"
+                href="https://necrose01.github.io/Workshop/vi/2.-prepare/2.4-set-iam-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Workshop/2.-prepare/2.4-set-iam-policy/"
+                href="https://necrose01.github.io/Workshop/2.-prepare/2.4-set-iam-policy/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Workshop/5.-clear-resources/</loc>
+    <loc>https://necrose01.github.io/Workshop/5.-clear-resources/</loc>
     <lastmod>2025-08-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/Workshop/vi/5.-clear-resources/"
+                href="https://necrose01.github.io/Workshop/vi/5.-clear-resources/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Workshop/5.-clear-resources/"
+                href="https://necrose01.github.io/Workshop/5.-clear-resources/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Workshop/categories/</loc>
+    <loc>https://necrose01.github.io/Workshop/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/Workshop/vi/categories/"
+                href="https://necrose01.github.io/Workshop/vi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Workshop/categories/"
+                href="https://necrose01.github.io/Workshop/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Workshop/tags/</loc>
+    <loc>https://necrose01.github.io/Workshop/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:1313/Workshop/vi/tags/"
+                href="https://necrose01.github.io/Workshop/vi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Workshop/tags/"
+                href="https://necrose01.github.io/Workshop/tags/"
                 />
   </url>
 </urlset>
